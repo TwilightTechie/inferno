@@ -107,7 +107,7 @@ the same workload and publish the table — the repo's payoff chart.
 
 | Stage | State |
 |---|---|
-| 0 — Naive generation | not started |
+| 0 — Naive generation | **done** — [chapter](docs/stage-00-naive-generation.md), tag `stage-0` |
 | 1 — KV cache | not started |
 | 2 — Sampling | not started |
 | 3 — Static batching | not started |
